@@ -1,0 +1,8 @@
+Summary:
+Leading AI textbooks define the field as the study of "intelligent agents": any
+device that perceives its environment and takes actions that maximize its 
+chance of achieving its goals. Colloquially, the term "artificial intelligence"
+is often used to describe machines that mimic "cognitive" functions such as
+"learning" and "problem solving". As machines become increasingly capable, tasks considered to require 
+"intelligence" are often removed from the definition of AI, a phenomenon 
+known as the AI effect.
